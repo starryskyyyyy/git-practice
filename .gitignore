@@ -1,0 +1,13 @@
+﻿# 临时文件
+*.tmp
+*.log
+
+# 环境与密钥（重要！绝不提交）
+.env
+*.key
+id_rsa*
+
+# 构建产物
+node_modules/
+__pycache__/
+dist/
